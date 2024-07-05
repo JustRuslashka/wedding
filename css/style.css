@@ -152,9 +152,11 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+
+
 /*Заголовки для всех страниц*/
 .page_zagolovok{
-  padding-top: 20%;
+  padding-top: 100px;
   font-style: italic;
   color: #848789;
   font-size: 100px;
@@ -188,7 +190,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #848789;
   font-size: 36px;
   font-family: 'Cormorant SC';
-  margin-top: 3%;
+  margin-top: 15px;
   color: #C29784;
 }
 
@@ -234,7 +236,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .schedule-body{
-  padding-top: 20%;
+  padding-top: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -278,7 +280,7 @@ margin-right: 30px;
 }
 
 .dresscode-top_text{
-  padding-top: 5%;
+  margin-top: 25px;
   text-align: center;
   color: #848789;
   font-size: 20px;
@@ -287,7 +289,7 @@ margin-right: 30px;
 }
 
 .dresscode-body_palitra{
-  margin-top: 5%;
+  margin-top: 25px;
   width: 100%;
   height: 600px;
 
@@ -302,8 +304,8 @@ margin-right: 30px;
 }
 
 .dresscode-body_circle_style{
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
   border-radius: 40px;
 
 }
@@ -372,7 +374,7 @@ margin-right: 30px;
 
 
 .dresscode-body_palitra_more{
-  margin-top: 3%;
+  margin-top: 20px;
   height: 20px;
   width: 100%;
   border: 1px solid;
@@ -412,7 +414,7 @@ margin-right: 30px;
 }
 
 .dresscode-body_circle_hidden-columns{
-  padding-top: 1%;
+  padding-top: 5px;
 }
 
 .dresscode-body_Ladies{
