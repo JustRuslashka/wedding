@@ -130,8 +130,9 @@ h1, h2, h3, h4, h5, h6 {
 
 /*если на IPAD проблема, то верни картнку в .main_page-*/
 .wrapper{
-  background: url(../img/FrontPic.jpeg) no-repeat ;
-  background-position: center;
+  background: url(../img/FrontPic.jpg) no-repeat center fixed; /*удалить fixed если не понравится*/
+  background-position:center;
+  background-size: cover;
   width: 100%;
   height: 100%;
     
